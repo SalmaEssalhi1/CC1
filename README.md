@@ -46,6 +46,7 @@ Une fonctionnalité essentielle incluse dans cette application est la générati
 •	Système de validation côté client avec messages d’erreur
 
 •	Téléchargement de la facture générée sous forme de fichier PDF
+<img src="https://github.com/user-attachments/assets/6c5bbd5f-d721-4fb3-8e63-9b2289400fec" alt="Image" width="900" />
 ## Pourquoi ce projet ?
 Ce système a été imaginé pour rendre la gestion des factures plus accessible, sans logiciel compliqué ni processus long. Il est possible d’adapter cette solution à d’autres contextes métiers ou de l’étendre avec des modules supplémentaires (gestion des paiements, notifications, etc.).
 Le backend assure la communication sécurisée avec la base de données et l’interface permet une expérience fluide, même sur mobile. Chaque composant du projet a été conçu pour être facilement maintenable et évolutif.
